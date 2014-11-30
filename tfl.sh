@@ -1,3 +1,3 @@
 #/bin/sh
 
-php ~/bin/tfl-get.php
+php ./tfl-get.php
